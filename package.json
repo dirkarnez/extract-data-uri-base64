@@ -1,0 +1,24 @@
+{
+  "name": "extract-data-uri-base64",
+  "author": "Dirk Arnez",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "tape": "^4.9.0"
+  },
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dirkarnez/extract-data-uri-base64.git"
+  },
+  "keywords": [
+    "data-uri",
+    "base64"
+  ]
+}
